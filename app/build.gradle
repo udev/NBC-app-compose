@@ -1,19 +1,48 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'dagger.hilt.android.plugin'
 }
 
 android {
-    compileSdk 31
+    compileSdk 32
 
     defaultConfig {
         applicationId "com.nbc.uitest"
         minSdk 26
-        targetSdk 31
+        targetSdk 32
         versionCode 1
         versionName "1.0"
 
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        // Specifies the fully-qualified class name of the test instrumentation
+        // runner.
+        testInstrumentationRunner "com.nbc.uitest.common.HiltTestRunner"
+
+        // The following argument makes the Android Test Orchestrator run its
+        // "pm clear" command after each test invocation. This command ensures
+        // that the app's state is completely cleared between tests.
+        testInstrumentationRunnerArguments clearPackageData: 'true'
+
+        // If set to true, enables the instrumentation class to start and stop profiling.
+        // If set to false (default), profiling occurs the entire time the instrumentation
+        // class is running.
+        testHandleProfiling = true
+
+        // If set to true, indicates that the Android system should run the instrumentation
+        // class as a functional test. The default value is false.
+        testFunctionalTest = true
+
+        testOptions {
+            execution 'ANDROIDX_TEST_ORCHESTRATOR'
+        }
+
+        vectorDrawables {
+            useSupportLibrary true
+        }
+    }
+    buildFeatures {
+        compose true
     }
 
     buildFeatures.viewBinding = true
@@ -31,15 +60,58 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    composeOptions {
+        kotlinCompilerExtensionVersion compose_version
+    }
+    packagingOptions {
+        resources {
+            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+        }
+    }
+    useLibrary 'android.test.runner'
+    useLibrary 'android.test.base'
+    useLibrary 'android.test.mock'
 }
 
 dependencies {
 
-    implementation 'androidx.core:core-ktx:1.7.0'
-    implementation 'androidx.appcompat:appcompat:1.4.1'
-    implementation 'com.google.android.material:material:1.4.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-    testImplementation 'junit:junit:4.+'
+    // orchestrator
+    androidTestImplementation 'androidx.test:orchestrator:1.4.1'
+    implementation 'androidx.core:core-ktx:1.8.0'
+    implementation 'androidx.appcompat:appcompat:1.4.2'
+    implementation 'com.google.android.material:material:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation "androidx.compose.ui:ui:$compose_version"
+    implementation 'androidx.compose.material3:material3:1.0.0-alpha13'
+    implementation "androidx.compose.ui:ui-tooling-preview:$compose_version"
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.4.1'
+    implementation 'androidx.activity:activity-compose:1.4.0'
+    testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    androidTestImplementation "androidx.compose.ui:ui-test-junit4:$compose_version"
+    debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
+    debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_version"
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1'
+    implementation 'io.coil-kt:coil-compose:2.1.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+    // Hilt
+    implementation "com.google.dagger:hilt-android:$hilt_version"
+    kapt "com.google.dagger:hilt-compiler:$hilt_version"
+
+    // For instrumentation tests
+    androidTestImplementation  "com.google.dagger:hilt-android-testing:$hilt_version"
+    kaptAndroidTest "com.google.dagger:hilt-compiler:$hilt_version"
+
+    // For local unit tests
+    testImplementation "com.google.dagger:hilt-android-testing:$hilt_version"
+    kaptTest "com.google.dagger:hilt-compiler:$hilt_version"
+    // ...with Kotlin.
+    kaptAndroidTest "com.google.dagger:hilt-android-compiler:$hilt_version"
+    androidTestImplementation 'androidx.test:runner:1.5.0-alpha04'
+}
+
+kapt {
+    correctErrorTypes true
 }

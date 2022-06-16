@@ -1,6 +1,7 @@
-package com.nbc.uitest
+package com.nbc.uitest.feature.shows
 
 import androidx.recyclerview.widget.DiffUtil
+import com.nbc.uitest.Show
 
 object ShowDiffCallback : DiffUtil.ItemCallback<Show>() {
     override fun areItemsTheSame(oldItem: Show, newItem: Show): Boolean = oldItem.id == newItem.id

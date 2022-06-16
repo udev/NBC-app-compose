@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">nbc-android-ui-interview</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="uh_oh">Uh oh…</string>
+    <string name="alert_dialog_error_generic">There was a problem loading shows. Please try again later.</string>
+    <string name="ok">OK</string>
+    <string name="content_description_bottom_nav_home">Home bottom navigation button</string>
+    <string name="home">Home</string>
+    <string name="content_description_bottom_nav_list">Show list bottom navigation button</string>
+    <string name="shows">Shows</string>
+    <string name="content_description_bottom_nav_live">Live show list bottom navigation button</string>
+    <string name="live">Live</string>
+    <string name="content_description_bottom_nav_search">Search bottom navigation button</string>
+    <string name="search">Search</string>
+    <string name="content_description_bottom_nav_more">Additional content bottom navigation button</string>
+    <string name="more">More</string>
+    <string name="thumbnail_image_for_show">thumbnail image for %s</string>
+    <string name="badge_live">LIVE</string>
+    <string name="content_description_nbc_logo">NBC logo</string>
 </resources>

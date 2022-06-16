@@ -1,9 +1,12 @@
-package com.nbc.uitest
+package com.nbc.uitest.feature
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.nbc.uitest.R
+import com.nbc.uitest.Show
+import com.nbc.uitest.feature.shows.ShowAdapter
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

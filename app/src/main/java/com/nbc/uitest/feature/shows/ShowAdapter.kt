@@ -1,8 +1,9 @@
-package com.nbc.uitest
+package com.nbc.uitest.feature.shows
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.ListAdapter
 import com.nbc.uitest.databinding.RowShowBinding
+import com.nbc.uitest.Show
 
 class ShowAdapter : ListAdapter<Show, ShowViewHolder>(ShowDiffCallback) {
 

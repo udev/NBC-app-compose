@@ -1,0 +1,719 @@
+{
+	"page": "HOMEPAGE",
+	"shelves": [
+		{
+			"title": "Continue Watching",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Live",
+					"tagline": "WATCH NBC NEWS NOW LIVE",
+					"title": "Hallie Jackson NOW",
+					"subtitle": "Live News Streaming",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/2/04/NBC-News_2048_1152.jpg"
+				},
+				{
+					"type": "Episode",
+					"title": "Late Night with Seth Meyers",
+					"subtitle": "S9 E74 | 03/15/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/10/27/LNSM_S9-KeyArt-Logo-Show-Tile-1920x1080.jpg"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				}
+			]
+		},
+		{
+			"title": "Trending Now",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Show",
+					"title": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/16/ThisIsUs-S6-KeyArt-Logo-Vertical-852x1136-1.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/23/TTAP-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Dateline",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-S28-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Today",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2020/11/11/Today-2020-temp-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Blacklist",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/9/24/blacklist_S9-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Endgame",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/1/28/EndGame_S1-KeyArt-Logo-Vertical-852x1136.jpg"
+				}
+			]
+		},
+		{
+			"title": "Latest Episodes",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Episode",
+					"title": "What Business?",
+					"subtitle": "Young Rock",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "Sister Cities",
+					"subtitle": "Mr. Mayor",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/MRM_FLEP.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "Katoby",
+					"subtitle": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/TIUFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "She's a Killer",
+					"subtitle": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/NUP_195555_00729.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "The Live Qualifiers Part 4",
+					"subtitle": "American Song Contest",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/12/ASCFullEp_041122.jpg",
+					"labelBadge": "NEW"
+				}
+			]
+		},
+		{
+			"title": "Latest Episodes",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Episode",
+					"title": "What Business?",
+					"subtitle": "Young Rock",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "Sister Cities",
+					"subtitle": "Mr. Mayor",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/MRM_FLEP.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "Katoby",
+					"subtitle": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/TIUFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "She's a Killer",
+					"subtitle": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/NUP_195555_00729.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "The Live Qualifiers Part 4",
+					"subtitle": "American Song Contest",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/12/ASCFullEp_041122.jpg",
+					"labelBadge": "NEW"
+				}
+			]
+		},
+		{
+			"title": "Latest Episodes",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Episode",
+					"title": "What Business?",
+					"subtitle": "Young Rock",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "Sister Cities",
+					"subtitle": "Mr. Mayor",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/MRM_FLEP.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "Katoby",
+					"subtitle": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/TIUFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "She's a Killer",
+					"subtitle": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/NUP_195555_00729.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "The Live Qualifiers Part 4",
+					"subtitle": "American Song Contest",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/12/ASCFullEp_041122.jpg",
+					"labelBadge": "NEW"
+				}
+			]
+		},
+		{
+			"title": "Latest Episodes",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Episode",
+					"title": "What Business?",
+					"subtitle": "Young Rock",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "Sister Cities",
+					"subtitle": "Mr. Mayor",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/MRM_FLEP.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "Katoby",
+					"subtitle": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/TIUFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "She's a Killer",
+					"subtitle": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/NUP_195555_00729.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "The Live Qualifiers Part 4",
+					"subtitle": "American Song Contest",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/12/ASCFullEp_041122.jpg",
+					"labelBadge": "NEW"
+				}
+			]
+		},
+		{
+			"title": "Latest Episodes",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Episode",
+					"title": "What Business?",
+					"subtitle": "Young Rock",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "Sister Cities",
+					"subtitle": "Mr. Mayor",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/MRM_FLEP.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "Katoby",
+					"subtitle": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/TIUFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "She's a Killer",
+					"subtitle": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/NUP_195555_00729.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "The Live Qualifiers Part 4",
+					"subtitle": "American Song Contest",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/12/ASCFullEp_041122.jpg",
+					"labelBadge": "NEW"
+				}
+			]
+		},
+		{
+			"title": "Latest Episodes",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Episode",
+					"title": "What Business?",
+					"subtitle": "Young Rock",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "Sister Cities",
+					"subtitle": "Mr. Mayor",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/MRM_FLEP.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "Katoby",
+					"subtitle": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/TIUFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "She's a Killer",
+					"subtitle": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/NUP_195555_00729.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "The Live Qualifiers Part 4",
+					"subtitle": "American Song Contest",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/12/ASCFullEp_041122.jpg",
+					"labelBadge": "NEW"
+				}
+			]
+		},
+		{
+			"title": "Latest Episodes",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Episode",
+					"title": "What Business?",
+					"subtitle": "Young Rock",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "Sister Cities",
+					"subtitle": "Mr. Mayor",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/MRM_FLEP.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "Katoby",
+					"subtitle": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/TIUFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "She's a Killer",
+					"subtitle": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/NUP_195555_00729.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "The Live Qualifiers Part 4",
+					"subtitle": "American Song Contest",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/12/ASCFullEp_041122.jpg",
+					"labelBadge": "NEW"
+				}
+			]
+		},
+		{
+			"title": "Latest Episodes",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Episode",
+					"title": "What Business?",
+					"subtitle": "Young Rock",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "Sister Cities",
+					"subtitle": "Mr. Mayor",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/MRM_FLEP.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				},
+				{
+					"type": "Episode",
+					"title": "Katoby",
+					"subtitle": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/TIUFullEp_041222.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "She's a Killer",
+					"subtitle": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/NUP_195555_00729.jpg",
+					"labelBadge": "NEW"
+				},
+				{
+					"type": "Episode",
+					"title": "The Live Qualifiers Part 4",
+					"subtitle": "American Song Contest",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/12/ASCFullEp_041122.jpg",
+					"labelBadge": "NEW"
+				}
+			]
+		},
+		{
+			"title": "Trending Now",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Show",
+					"title": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/16/ThisIsUs-S6-KeyArt-Logo-Vertical-852x1136-1.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/23/TTAP-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Dateline",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-S28-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Today",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2020/11/11/Today-2020-temp-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Blacklist",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/9/24/blacklist_S9-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Endgame",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/1/28/EndGame_S1-KeyArt-Logo-Vertical-852x1136.jpg"
+				}
+			]
+		},
+		{
+			"title": "Trending Now",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Show",
+					"title": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/16/ThisIsUs-S6-KeyArt-Logo-Vertical-852x1136-1.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/23/TTAP-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Dateline",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-S28-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Today",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2020/11/11/Today-2020-temp-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Blacklist",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/9/24/blacklist_S9-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Endgame",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/1/28/EndGame_S1-KeyArt-Logo-Vertical-852x1136.jpg"
+				}
+			]
+		},
+		{
+			"title": "Trending Now",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Show",
+					"title": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/16/ThisIsUs-S6-KeyArt-Logo-Vertical-852x1136-1.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/23/TTAP-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Dateline",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-S28-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Today",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2020/11/11/Today-2020-temp-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Blacklist",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/9/24/blacklist_S9-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Endgame",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/1/28/EndGame_S1-KeyArt-Logo-Vertical-852x1136.jpg"
+				}
+			]
+		},
+		{
+			"title": "Trending Now",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Show",
+					"title": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/16/ThisIsUs-S6-KeyArt-Logo-Vertical-852x1136-1.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/23/TTAP-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Dateline",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-S28-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Today",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2020/11/11/Today-2020-temp-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Blacklist",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/9/24/blacklist_S9-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Endgame",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/1/28/EndGame_S1-KeyArt-Logo-Vertical-852x1136.jpg"
+				}
+			]
+		},
+		{
+			"title": "Trending Now",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Show",
+					"title": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/16/ThisIsUs-S6-KeyArt-Logo-Vertical-852x1136-1.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/23/TTAP-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Dateline",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-S28-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Today",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2020/11/11/Today-2020-temp-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Blacklist",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/9/24/blacklist_S9-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Endgame",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/1/28/EndGame_S1-KeyArt-Logo-Vertical-852x1136.jpg"
+				}
+			]
+		},
+		{
+			"title": "Trending Now",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Show",
+					"title": "This Is Us",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/16/ThisIsUs-S6-KeyArt-Logo-Vertical-852x1136-1.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Thing About Pam",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/2/23/TTAP-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Dateline",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-S28-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "Today",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2020/11/11/Today-2020-temp-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Blacklist",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/9/24/blacklist_S9-KeyArt-Logo-Vertical-852x1136.jpg"
+				},
+				{
+					"type": "Show",
+					"title": "The Endgame",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/1/28/EndGame_S1-KeyArt-Logo-Vertical-852x1136.jpg"
+				}
+			]
+		},
+		{
+			"title": "Continue Watching",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Live",
+					"tagline": "WATCH NBC NEWS NOW LIVE",
+					"title": "Hallie Jackson NOW",
+					"subtitle": "Live News Streaming",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/2/04/NBC-News_2048_1152.jpg"
+				},
+				{
+					"type": "Episode",
+					"title": "Late Night with Seth Meyers",
+					"subtitle": "S9 E74 | 03/15/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/10/27/LNSM_S9-KeyArt-Logo-Show-Tile-1920x1080.jpg"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				}
+			]
+		},
+		{
+			"title": "Continue Watching",
+			"type": "Shelf",
+			"items": [
+				{
+					"type": "Live",
+					"tagline": "WATCH NBC NEWS NOW LIVE",
+					"title": "Hallie Jackson NOW",
+					"subtitle": "Live News Streaming",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/2/04/NBC-News_2048_1152.jpg"
+				},
+				{
+					"type": "Episode",
+					"title": "Late Night with Seth Meyers",
+					"subtitle": "S9 E74 | 03/15/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2021/10/27/LNSM_S9-KeyArt-Logo-Show-Tile-1920x1080.jpg"
+				},
+				{
+					"type": "Episode",
+					"title": "NBC Nightly News with Lester Holt",
+					"subtitle": "S2022 E101 04/12/22",
+					"image": "https://img.nbc.com/sites/nbcunbc/files/images/2022/4/13/YRKFullEp_041222.jpg",
+					"labelBadge": "EXPIRING"
+				}
+			]
+		}
+	]
+}
